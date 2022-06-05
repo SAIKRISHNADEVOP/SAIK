@@ -1,4 +1,4 @@
 cart:
-	bash cart.sh
+	@bash cart.sh
 catalogue:
-	bash catalogue.sh
+	@bash catalogue.sh
